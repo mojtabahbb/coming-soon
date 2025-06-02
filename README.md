@@ -2,4 +2,4 @@
 
 ## Preview
 
-![Live Preview](https://mhbb.me/forfun/coming-soon)
+[Live Preview](https://mhbb.me/forfun/coming-soon)
